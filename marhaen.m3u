@@ -8886,3 +8886,10 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4572.ts
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4573.ts
 #EXTINF:-1 tvg-id="" tvg-name="RADIO ASYIK" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/asyik-kuala-lumpur.png" group-title="▶ RADIO",RADIO ASYIK
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4574.ts
+
+
+#======================Anime============================
+
+#EXTINF:-1 group-logo="" group-title="ANIME" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzDqu2tDoY6uxoqWMdUJNi3v9ggRfJ_jGJMNzbpit9Pbocse2P187qHKAC7QxtM6hcpTm-Mad8WYK3-sSN17qxmRI04zU83d89DvVvR61Tb9pbf7xF_F4b1QfqaI_G99x-QJ7IUd6sT_I/s1600/05-Jujutsu+Kaisen.png" ,Jujutsu Kaisen
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://www.blogger.com/video.g?token=AD6v5dwldSCiG7DRsRAKVm23ph1TKWeONk8tPs5qUkD9gICtUsBCJFK1tm8x9MUVL2Cuw65L8Ni6L_OtbyozgNA6w7ZmigP-qN0O_QIH8QdD8GJZCY07yU1MdNWEWPSrPzGoyaGUjA
